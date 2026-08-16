@@ -6,7 +6,167 @@
   <atom:link href="https://toreca-ai.github.io/toreca-antenna/feed.xml" rel="self" type="application/rss+xml" />
   <description>トレーディングカードの相場動向、新弾情報、買取の考え方、初心者向けガイドなどをまとめる情報ブログ。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 16 Aug 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Mon, 17 Aug 2026 09:00:00 +0900</lastBuildDate>
+  <item>
+    <title>2026年秋の新弾カレンダー｜主力タイトルの発売日が重なる時期をどう回すか</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-2026-aki-shinpan-calendar-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-2026-aki-shinpan-calendar-2026-08.html</guid>
+    <description>8月7日から8月29日までの3週間強に主力5タイトルの新商品が6つ。9月から10月の予定も含めて一覧にし、並行プレイヤーの予算配分を考えます。</description>
+    <category>column</category>
+    <pubDate>Mon, 17 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>使えるリーダーを絞る大会形式は何を変えるか｜ワンピースカード4周年の企画から考える</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-op-meramera-event-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-op-meramera-event-2026-08.html</guid>
+    <description>OP-17の発売記念イベントは四皇にちなんだリーダーのみ使用可能。リーダーを絞る形式が環境・調整・新規参加のしやすさに与える影響を考えます。</description>
+    <category>column</category>
+    <pubDate>Mon, 17 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ヴァイスシュヴァルツとロゼは何が違うのか｜OS番号・パック仕様・遊び心地</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-ws-rose-chigai-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-ws-rose-chigai-2026-08.html</guid>
+    <description>基本ルールは同じと言われるロゼ。OS番号による区分の落とし穴、1枚あたり1.6倍以上の単価差、遊び心地の評価が割れる点を整理します。</description>
+    <category>column</category>
+    <pubDate>Mon, 17 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>DBFのエナジーマーカーはいつ切るか｜後攻限定・1回きりのリソースの考え方</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-dbf-energy-marker-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-dbf-energy-marker-2026-08.html</guid>
+    <description>後攻限定でゲーム中1度だけ使える使い捨てのエナジー。必ず用意すべき理由と、覚醒との兼ね合いを含めた切るタイミングの考え方を整理します。</description>
+    <category>guide</category>
+    <pubDate>Mon, 17 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>デジモンカードの「返し」が分からない人へ｜メモリーを何返すかの考え方</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-digimon-memory-kaeshi-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-digimon-memory-kaeshi-2026-08.html</guid>
+    <description>1返し・2返しという言い方の意味から、初手で何返すか、自分の動きと相手への供給のどちらを優先するかまで、移行者がつまずく箇所を整理します。</description>
+    <category>guide</category>
+    <pubDate>Mon, 17 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ワンピースカードST-31〜ST-36の選び方｜6種のスタートデッキを色で分けて考える</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-op-startdeck-st31-36-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-op-startdeck-st31-36-2026-08.html</guid>
+    <description>ゾロ(緑)・クザン(青)・カタクリ(紫)・サボ(赤黒)・キッド(黄)という構成から、最初の1つをどう選ぶかを3つの基準で整理します。</description>
+    <category>guide</category>
+    <pubDate>Mon, 17 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ヴァイスの「圧縮」は他TCGの圧縮と目的が違う｜移行者が最初に直す誤解</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-ws-asshuku-gokai-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-ws-asshuku-gokai-2026-08.html</guid>
+    <description>ヴァイスの圧縮はキャンセル率を上げるための行為で、必要札を引きやすくする他TCGの圧縮とは目的が違います。移行者がやりがちな失敗まで整理します。</description>
+    <category>guide</category>
+    <pubDate>Mon, 17 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ポケカ・遊戯王と主力タイトルを並行している人の整理｜資金を寄せるときの順番</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-pokeca-yugioh-heikou-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-pokeca-yugioh-heikou-2026-08.html</guid>
+    <description>使用頻度で分けたうえで、もう組まないデッキの単品から順に整理する。ポケカ30周年と主力タイトルの供給構造の違いを踏まえた順番を提示します。</description>
+    <category>kaitori</category>
+    <pubDate>Mon, 17 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>新弾の発売日をまたぐ前に手放すか｜8〜9月に新弾が集中する主力タイトルの場合</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-shinpan-matagi-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-shinpan-matagi-2026-08.html</guid>
+    <description>2026年8月から10月にかけて主力タイトルの新弾と再録の機会が連続します。再録・環境・状態確認という3つの観点から判断材料を整理します。</description>
+    <category>kaitori</category>
+    <pubDate>Mon, 17 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ヴァイス・ロゼはタイトル単位で価値が動く｜作品番号とOS番号を踏まえた整理</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-ws-rose-title-tani-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-ws-rose-title-tani-2026-08.html</guid>
+    <description>汎用カードという受け皿がないヴァイス系では、需要がタイトル単位で動きます。作品番号・OS番号で束を分ける整理の考え方を解説します。</description>
+    <category>kaitori</category>
+    <pubDate>Mon, 17 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>デジモンは進化元でカードを重ねる｜スリーブの傷みが他タイトルより早い理由</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-digimon-shinkamoto-sleeve-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-digimon-shinkamoto-sleeve-2026-08.html</guid>
+    <description>進化元として重ねたカードを何度も動かす構造が、カードの角とスリーブの口に負担をかけます。二重スリーブの考え方を含めた対策を整理します。</description>
+    <category>kanbetsu</category>
+    <pubDate>Mon, 17 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ワンピースカードのパラレルは反りやすいのか｜開封直後にやることとやらないこと</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-op-parallel-sori-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-op-parallel-sori-2026-08.html</guid>
+    <description>反りは加工面と裏面の湿気の吸い方の差から起きます。開封直後にやるべき3つと、力ずくで戻そうとしてはいけない理由をOP-17発売前に整理します。</description>
+    <category>kanbetsu</category>
+    <pubDate>Mon, 17 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ヴァイス・ロゼのSSPやOFRをどう保管するか｜箔押しカードの弱点を知る</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-ws-ssp-hakuoshi-hokan-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-ws-ssp-hakuoshi-hokan-2026-08.html</guid>
+    <description>SSP・AGR・OFRは表面加工が凝っている分だけ擦れ・指の跡・反りに弱いカードです。種類数の少なさと、開封直後にやっておきたい3手順を整理します。</description>
+    <category>kanbetsu</category>
+    <pubDate>Mon, 17 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>DBF「STORY BOOSTER 01」は何が特別な弾なのか｜全85種・330円の中身</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-dbf-st01-story-booster-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-dbf-st01-story-booster-2026-08.html</guid>
+    <description>フュージョンワールドのST01は8月8日発売、330円・全85種。通常弾FB11との仕様差、新規リーダー3種、エナジーマーカー12種収録の意味を整理します。</description>
+    <category>shinpan</category>
+    <pubDate>Mon, 17 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>デジモンBT-26「TIMELESS BONDS」全108種の内訳を読む｜8月29日発売</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-digimon-bt26-timeless-bonds-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-digimon-bt26-timeless-bonds-2026-08.html</guid>
+    <description>BT-26は8月29日発売、240円。全108種のレアリティ内訳とBT-25からの価格変更、タイムストレンジャーを含む3系統の収録テーマを公式情報から整理します。</description>
+    <category>shinpan</category>
+    <pubDate>Mon, 17 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ワンピースカードOP-17「世界最強の戦士」は8月22日発売｜4周年弾で確定していること</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-op17-sekaisaikyo-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-op17-sekaisaikyo-2026-08.html</guid>
+    <description>4周年弾となるOP-17は8月22日発売、240円・1パック6枚・1BOX24パック。ルフィのリーダー解禁と四皇リーダー限定イベントまで、公式情報で確定している範囲だけを整理します。</description>
+    <category>shinpan</category>
+    <pubDate>Mon, 17 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ヴァイスシュヴァルツ2026年8月の2弾を並べて読む｜【推しの子】Vol.3と葬送のフリーレンVol.2</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-ws-2026-08-osk-sfn-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-ws-2026-08-osk-sfn-2026-08.html</guid>
+    <description>8月7日のOSKと8月28日のSFN。基本仕様は完全に共通で、違いはAGR1種(初版限定)の有無とSSPが6種か3種かに集約されます。</description>
+    <category>shinpan</category>
+    <pubDate>Mon, 17 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>4周年弾は相場の何を変えるか｜ワンピースカードOP-17を発売前に整理する</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-op17-4shunen-souba-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-op17-4shunen-souba-2026-08.html</guid>
+    <description>240円という新しいパック価格、8月から10月まで続く大会、直前のスタートデッキ供給。相場が動くときの前提条件を3つに分けて整理します。</description>
+    <category>souba</category>
+    <pubDate>Mon, 17 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>1パック240円6枚と550円6枚｜主力5タイトルのパック仕様を並べると相場の前提が見える</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-pack-shiyou-hikaku-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-pack-shiyou-hikaku-2026-08.html</guid>
+    <description>ワンピース・デジモン・DBF・ヴァイス・ロゼの2026年8月時点のパック仕様を1枚あたり単価まで揃えて比較。220円から240円への切り替わりも整理します。</description>
+    <category>souba</category>
+    <pubDate>Mon, 17 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ヴァイスシュヴァルツロゼの封入構成を数字で読む｜ぬきたし THE ANIMATION(OS12)の場合</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-wsr-nukitashi-os12-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-wsr-nukitashi-os12-2026-08.html</guid>
+    <description>SR91種に対しSSP4種・SP5種という配分と、1枚あたり約91.7円という本家の1.6倍以上の単価。ロゼの相場を読むときの前提を整理します。</description>
+    <category>souba</category>
+    <pubDate>Mon, 17 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>品薄と再販｜トレカ市場が繰り返してきた構造</title>
     <link>https://toreca-ai.github.io/toreca-antenna/posts/column-hinpaku-saihan-kozo-2026-08.html</link>
