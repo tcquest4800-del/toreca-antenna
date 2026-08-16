@@ -7,7 +7,7 @@ const fs = require('fs');
 const path = require('path');
 
 const ROOT = process.cwd();
-const BASE = 'https://tcquest4800-del.github.io/toreca-antenna/';
+const BASE = 'https://toreca-ai.github.io/toreca-antenna/';
 const posts = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/posts.json'), 'utf8'));
 const esc = s => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 

@@ -2,167 +2,327 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>トレカアンテナ</title>
-  <link>https://tcquest4800-del.github.io/toreca-antenna/</link>
-  <atom:link href="https://tcquest4800-del.github.io/toreca-antenna/feed.xml" rel="self" type="application/rss+xml" />
+  <link>https://toreca-ai.github.io/toreca-antenna/</link>
+  <atom:link href="https://toreca-ai.github.io/toreca-antenna/feed.xml" rel="self" type="application/rss+xml" />
   <description>トレーディングカードの相場動向、新弾情報、買取の考え方、初心者向けガイドなどをまとめる情報ブログ。</description>
   <language>ja</language>
   <lastBuildDate>Sun, 16 Aug 2026 09:00:00 +0900</lastBuildDate>
   <item>
     <title>品薄と再販｜トレカ市場が繰り返してきた構造</title>
-    <link>https://tcquest4800-del.github.io/toreca-antenna/posts/column-hinpaku-saihan-kozo-2026-08.html</link>
-    <guid isPermaLink="true">https://tcquest4800-del.github.io/toreca-antenna/posts/column-hinpaku-saihan-kozo-2026-08.html</guid>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-hinpaku-saihan-kozo-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-hinpaku-saihan-kozo-2026-08.html</guid>
     <description>生産計画の先行性、SNSによる需要の一点集中、再販規模の不確かさ。品薄が繰り返される構造を3つの要因から整理し、局面ごとの相場の動き方を解説します。</description>
     <category>column</category>
     <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
   </item>
   <item>
+    <title>開封文化はどう広がったか｜「引く瞬間」が共有されるようになるまで</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-kaifu-bunka-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-kaifu-bunka-2026-08.html</guid>
+    <description>開封が動画やSNSで共有されるようになり、入口も情報の速度も変わりました。注目の集中と需要の短期化という市場の変化と、健全な向き合い方を考えるコラムです。</description>
+    <category>column</category>
+    <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>英語版と日本語版｜同じカードなのに市場が別々な理由</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-kaigai-eigoban-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-kaigai-eigoban-2026-08.html</guid>
+    <description>発売時期のずれ・レアリティ体系の違い・プレイ人口と需要の性質という3要因から、言語版ごとに市場が分かれる構造を解説。相場比較の注意点も添えたコラムです。</description>
+    <category>column</category>
+    <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>親子でトレカを楽しむとき、先に決めておきたいこと</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-oyako-toreca-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-oyako-toreca-2026-08.html</guid>
+    <description>予算は金額より頻度で、交換は「価値が分からないものは交換しない」で、保管は仕組みで。子どもと一緒に始めるときに先に話し合っておきたい3点をまとめました。</description>
+    <category>column</category>
+    <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
     <title>資産ではなく趣味としてトレカを楽しむということ</title>
-    <link>https://tcquest4800-del.github.io/toreca-antenna/posts/column-shumi-toshite-tanoshimu-2026-08.html</link>
-    <guid isPermaLink="true">https://tcquest4800-del.github.io/toreca-antenna/posts/column-shumi-toshite-tanoshimu-2026-08.html</guid>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-shumi-toshite-tanoshimu-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-shumi-toshite-tanoshimu-2026-08.html</guid>
     <description>相場は交換の目安であって、そのカードが自分に持つ意味とは別のもの。キャラ・絵師・弾・思い出という収集の軸の作り方と、予算と置き場所の決め方を書いたコラムです。</description>
     <category>column</category>
     <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
   </item>
   <item>
     <title>初めての公認大会｜当日の流れと持ち物</title>
-    <link>https://tcquest4800-del.github.io/toreca-antenna/posts/column-taikai-debut-2026-08.html</link>
-    <guid isPermaLink="true">https://tcquest4800-del.github.io/toreca-antenna/posts/column-taikai-debut-2026-08.html</guid>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-taikai-debut-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-taikai-debut-2026-08.html</guid>
     <description>受付から対戦、結果報告までの流れを時系列で解説。予備スリーブなど忘れがちな持ち物と、相手のカードに触れないなど最低限のマナー3点をまとめました。</description>
     <category>column</category>
     <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
   </item>
   <item>
+    <title>カードの整理方法｜バインダーとストレージの使い分け</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-collection-seiri-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-collection-seiri-2026-08.html</guid>
+    <description>バインダー・ストレージ・デッキケースの役割を「見せる・しまう・使う」で分け、探し方から分類方法を決める考え方を解説。整理が劣化対策にもなる理由も説明します。</description>
+    <category>guide</category>
+    <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
     <title>デッキ構築の基本｜枚数配分という考え方</title>
-    <link>https://tcquest4800-del.github.io/toreca-antenna/posts/guide-deck-kouchiku-kihon-2026-08.html</link>
-    <guid isPermaLink="true">https://tcquest4800-del.github.io/toreca-antenna/posts/guide-deck-kouchiku-kihon-2026-08.html</guid>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-deck-kouchiku-kihon-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-deck-kouchiku-kihon-2026-08.html</guid>
     <description>4枚・2枚・1枚の意味を初手に来る確率から説明し、勝ち筋・展開・妨害・リソースという役割の塊で管理する方法を解説。タイトルを問わず使える考え方です。</description>
     <category>guide</category>
     <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
   </item>
   <item>
+    <title>メタデッキとは何か｜環境の読み方と自分に合うデッキの選び方</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-meta-deck-yomikata-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-meta-deck-yomikata-2026-08.html</guid>
+    <description>「環境」「メタ」「Tier1」という言葉の意味を整理し、Tier表が有志の集計である点を踏まえた読み方を解説。勝率・予算・続けやすさで選ぶ考え方を提案します。</description>
+    <category>guide</category>
+    <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
     <title>ワンピースカードゲームの始め方｜最初の1デッキの選び方</title>
-    <link>https://tcquest4800-del.github.io/toreca-antenna/posts/guide-onepiece-hajimekata-2026-08.html</link>
-    <guid isPermaLink="true">https://tcquest4800-del.github.io/toreca-antenna/posts/guide-onepiece-hajimekata-2026-08.html</guid>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-onepiece-hajimekata-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-onepiece-hajimekata-2026-08.html</guid>
     <description>リーダー1枚＋デッキ50枚という構造の説明から、展開型・大型型・干渉型というスタートデッキの選び分け、ドン!!とカウンターの基本ルールまでを解説します。</description>
     <category>guide</category>
     <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
   </item>
   <item>
     <title>ポケモンカードの始め方｜最初に買うべきものと順番</title>
-    <link>https://tcquest4800-del.github.io/toreca-antenna/posts/guide-pokeca-hajimekata-2026-08.html</link>
-    <guid isPermaLink="true">https://tcquest4800-del.github.io/toreca-antenna/posts/guide-pokeca-hajimekata-2026-08.html</guid>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-pokeca-hajimekata-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-pokeca-hajimekata-2026-08.html</guid>
     <description>パックから入ると遊べるまでが遠回りになる理由と、構築済みデッキから始める手順を5ステップで整理。最初に覚えるルールは3つだけで十分です。</description>
     <category>guide</category>
     <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
   </item>
   <item>
     <title>スリーブとローダーの選び方｜サイズと厚みの基本</title>
-    <link>https://tcquest4800-del.github.io/toreca-antenna/posts/guide-sleeve-loader-erabikata-2026-08.html</link>
-    <guid isPermaLink="true">https://tcquest4800-del.github.io/toreca-antenna/posts/guide-sleeve-loader-erabikata-2026-08.html</guid>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-sleeve-loader-erabikata-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-sleeve-loader-erabikata-2026-08.html</guid>
     <description>インナー・キャラスリ・オーバースリーブの三層構造と、内側から順にサイズを決める考え方。マグネットローダーの35pt/55ptといった厚みの選び方も解説します。</description>
     <category>guide</category>
     <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
   </item>
   <item>
+    <title>遊戯王の始め方｜ストラクチャーデッキから入る理由</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-yugioh-hajimekata-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-yugioh-hajimekata-2026-08.html</guid>
+    <description>パックから入ると遠回りになる理由を説明し、ストラクチャーデッキを起点にした5ステップを提示。最初に覚えるルールは召喚・チェーン・先攻ドローの3つで足ります。</description>
+    <category>guide</category>
+    <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>デッキを丸ごと手放すとき｜バラすか、そのまま残すか</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-deck-tebanasu-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-deck-tebanasu-2026-08.html</guid>
+    <description>デッキのカードをテーマ専用・汎用・基本パーツの3種に分け、それぞれの扱い方を整理。解体前に汎用カードを抜き出しておく理由と、残す価値についても触れます。</description>
+    <category>kaitori</category>
+    <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>買取に出す前の準備｜仕分けと梱包の基本</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-jizen-junbi-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-jizen-junbi-2026-08.html</guid>
+    <description>タイトル・レアリティでの仕分け、5箇所の状態確認、傷めない梱包という3工程を解説。自己修復をしないこと、輪ゴムで束ねないことの理由も説明します。</description>
+    <category>kaitori</category>
+    <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
     <title>買取査定で状態はどう見られるか｜減額されやすい5つのポイント</title>
-    <link>https://tcquest4800-del.github.io/toreca-antenna/posts/kaitori-jotai-satei-point-2026-08.html</link>
-    <guid isPermaLink="true">https://tcquest4800-del.github.io/toreca-antenna/posts/kaitori-jotai-satei-point-2026-08.html</guid>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-jotai-satei-point-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-jotai-satei-point-2026-08.html</guid>
     <description>角・縁・表面・反り・センタリングという査定で見られる5箇所を、自分で確認する方法とあわせて整理。やってはいけない自己修復についても触れます。</description>
     <category>kaitori</category>
     <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
   </item>
   <item>
+    <title>まとめ売りと1枚ずつ売る方法｜どちらを選ぶかの判断基準</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-matomeuri-tanpin-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-matomeuri-tanpin-2026-08.html</guid>
+    <description>手間・時間・合計額の3点で両者を比較し、単価が高いカードだけ抜き出して個別に扱う二段構えを提案。まとめ売り前にやるべき3つの仕分けも紹介します。</description>
+    <category>kaitori</category>
+    <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>買取価格に季節はあるか｜1年のリズムと需要が動く時期</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-nenkan-rhythm-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-nenkan-rhythm-2026-08.html</guid>
+    <description>新弾サイクル・大型大会・長期休暇・年末年始という4つの節目ごとに、影響を受けるカードの種類が違います。季節性を過信しないための注意点も添えました。</description>
+    <category>kaitori</category>
+    <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
     <title>買取相場表の読み方｜「上限価格」に惑わされないために</title>
-    <link>https://tcquest4800-del.github.io/toreca-antenna/posts/kaitori-soubahyo-yomikata-2026-08.html</link>
-    <guid isPermaLink="true">https://tcquest4800-del.github.io/toreca-antenna/posts/kaitori-soubahyo-yomikata-2026-08.html</guid>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-soubahyo-yomikata-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-soubahyo-yomikata-2026-08.html</guid>
     <description>相場表の金額は条件を満たしたときの上限であることが多いもの。型番・状態条件・更新日・枚数条件という先に読むべき4欄と、価格を幅で捉える方法を解説します。</description>
     <category>kaitori</category>
     <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
   </item>
   <item>
     <title>トレカの売り時をどう考えるか｜価格の山と谷が生まれる場面</title>
-    <link>https://tcquest4800-del.github.io/toreca-antenna/posts/kaitori-uridoki-kangaekata-2026-08.html</link>
-    <guid isPermaLink="true">https://tcquest4800-del.github.io/toreca-antenna/posts/kaitori-uridoki-kangaekata-2026-08.html</guid>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-uridoki-kangaekata-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-uridoki-kangaekata-2026-08.html</guid>
     <description>発売直後・大型大会前後・ルール調整・再録告知・生産終了。価格が動きやすい5つの場面を押さえ、天井を狙わずに納得できる基準を決める考え方を解説します。</description>
     <category>kaitori</category>
     <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
   </item>
   <item>
+    <title>バインダー保管で起きる劣化｜ポケットの素材と圧に注意</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-binder-rekka-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-binder-rekka-2026-08.html</guid>
+    <description>入れておけば安全とは限りません。ポケットの素材・詰めすぎによる圧・立てかけによる反りという3つの原因を挙げ、それぞれの避け方を具体的に解説します。</description>
+    <category>kanbetsu</category>
+    <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>中古カードを買うときの確認手順｜受け取り前と受け取り後</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-chuko-kounyu-check-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-chuko-kounyu-check-2026-08.html</guid>
+    <description>購入前の写真と状態表記の読み方、受け取り時の型番・傷・裏面の確認、その後の保管まで3段階で整理。状態表記に統一基準がない点への向き合い方も解説します。</description>
+    <category>kanbetsu</category>
+    <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
     <title>トレカの保管環境｜温度・湿度・光という3つの敵</title>
-    <link>https://tcquest4800-del.github.io/toreca-antenna/posts/kanbetsu-hokan-kankyo-2026-08.html</link>
-    <guid isPermaLink="true">https://tcquest4800-del.github.io/toreca-antenna/posts/kanbetsu-hokan-kankyo-2026-08.html</guid>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-hokan-kankyo-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-hokan-kankyo-2026-08.html</guid>
     <description>劣化の要因を湿度・光・温度に整理し、回復できるものとできないものを区別。特別な設備なしで家庭でできる4つの対策を具体的に紹介します。</description>
     <category>kanbetsu</category>
     <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
   </item>
   <item>
+    <title>カードを鑑定に出すか迷ったときの判断材料</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-kantei-handan-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-kantei-handan-2026-08.html</guid>
+    <description>鑑定で得られるものと失うものを整理し、出す価値が出やすい4つの条件を提示。センタリング・四隅・縁・表面を自分で確認する方法と、加工が厳禁な理由も説明します。</description>
+    <category>kanbetsu</category>
+    <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
     <title>偽物カードの見分け方｜光にかざす前に見る5つの点</title>
-    <link>https://tcquest4800-del.github.io/toreca-antenna/posts/kanbetsu-nisemono-miwakekata-2026-08.html</link>
-    <guid isPermaLink="true">https://tcquest4800-del.github.io/toreca-antenna/posts/kanbetsu-nisemono-miwakekata-2026-08.html</guid>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-nisemono-miwakekata-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-nisemono-miwakekata-2026-08.html</guid>
     <description>裏面の色・カット・印刷の網点・厚み・文字という、光に透かす前に確認できる5点を順番どおりに紹介。本物と並べて比較する基本原則も解説します。</description>
     <category>kanbetsu</category>
     <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
   </item>
   <item>
     <title>カードの反りはなぜ起きるのか｜予防と応急対応</title>
-    <link>https://tcquest4800-del.github.io/toreca-antenna/posts/kanbetsu-sori-taisaku-2026-08.html</link>
-    <guid isPermaLink="true">https://tcquest4800-del.github.io/toreca-antenna/posts/kanbetsu-sori-taisaku-2026-08.html</guid>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-sori-taisaku-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-sori-taisaku-2026-08.html</guid>
     <description>キラカードが反りやすいのは加工層と紙の湿気への反応差が原因です。構造から仕組みを説明し、予防策と、熱や水を使ってはいけない理由を整理します。</description>
     <category>kanbetsu</category>
     <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
   </item>
   <item>
+    <title>封入率の情報はどこまで信じられるか｜開封報告の読み方</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-fuunyuritsu-yomikata-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-fuunyuritsu-yomikata-2026-08.html</guid>
+    <description>封入率はほぼすべてが非公式の推計です。報告バイアス・サンプル不足・時期の偏りという3つの歪みを説明し、相対比較までにとどめる使い方を提案します。</description>
+    <category>shinpan</category>
+    <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
     <title>新弾発売前にチェックすべき情報と、その読み方</title>
-    <link>https://tcquest4800-del.github.io/toreca-antenna/posts/shinpan-hatsubai-mae-check-2026-08.html</link>
-    <guid isPermaLink="true">https://tcquest4800-del.github.io/toreca-antenna/posts/shinpan-hatsubai-mae-check-2026-08.html</guid>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-hatsubai-mae-check-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-hatsubai-mae-check-2026-08.html</guid>
     <description>公式の収録リスト、効果テキスト全文、既存カードとの組み合わせ、前弾の供給、大会日程。発売前に見るべき5点と、情報源ごとの確度の扱い方をまとめます。</description>
     <category>shinpan</category>
     <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
   </item>
   <item>
+    <title>ハイクラスパックは通常弾と何が違うのか｜収録と相場の考え方</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-highclass-tokucho-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-highclass-tokucho-2026-08.html</guid>
+    <description>再録中心の構成・高レアの多さ・供給期間の読みにくさという3点から、ハイクラスパックと通常の拡張パックの違いを整理。目的別の買い分けも解説します。</description>
+    <category>shinpan</category>
+    <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
     <title>ワンピースカード新弾で注目されやすいカードの共通点</title>
-    <link>https://tcquest4800-del.github.io/toreca-antenna/posts/shinpan-onepiece-chumoku-kyotsuten-2026-08.html</link>
-    <guid isPermaLink="true">https://tcquest4800-del.github.io/toreca-antenna/posts/shinpan-onepiece-chumoku-kyotsuten-2026-08.html</guid>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-onepiece-chumoku-kyotsuten-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-onepiece-chumoku-kyotsuten-2026-08.html</guid>
     <description>役割の数・コスト帯・色・イラストという4つの視点から、新弾で注目が集まりやすいカードの特徴を整理。ゲーム面と収集面を分けて考える方法を紹介します。</description>
     <category>shinpan</category>
     <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
   </item>
   <item>
+    <title>ワンピースカードのスタートデッキは新弾として何を見るか</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-onepiece-startdeck-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-onepiece-startdeck-2026-08.html</guid>
+    <description>STは初心者向け商品であると同時に新規リーダーと汎用カードの供給源でもあります。新弾情報として追うときの3つの視点と商品形態の違いを解説します。</description>
+    <category>shinpan</category>
+    <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
     <title>ポケカのレアリティ体系を整理する｜AR・SR・SAR・URの違い</title>
-    <link>https://tcquest4800-del.github.io/toreca-antenna/posts/shinpan-rarity-taikei-2026-08.html</link>
-    <guid isPermaLink="true">https://tcquest4800-del.github.io/toreca-antenna/posts/shinpan-rarity-taikei-2026-08.html</guid>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-rarity-taikei-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-rarity-taikei-2026-08.html</guid>
     <description>AR・SR・SAR・UR・CHRを見た目の特徴と市場での扱われ方の両面から整理。レアリティの高さが価格の順位とは限らない理由と、新弾の見極め順を解説します。</description>
     <category>shinpan</category>
     <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
   </item>
   <item>
+    <title>遊戯王のパック構成を整理する｜基本パックとデッキビルドパックの違い</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-yugioh-pack-kozo-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-yugioh-pack-kozo-2026-08.html</guid>
+    <description>基本パック・デッキビルドパック・ストラクチャーデッキ・記念商品という4カテゴリの役割を整理。目的が「遊ぶ」か「開封する」かで選び方が変わります。</description>
+    <category>shinpan</category>
+    <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>未開封BOXの相場が後から動く理由｜シュリンクと生産終了</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-mikaifu-box-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-mikaifu-box-2026-08.html</guid>
+    <description>BOX価格は中身の合計では決まりません。開封需要・シュリンクの有無・生産終了後に現存数が減り続けるという3つの構造から、BOX相場の動き方を整理します。</description>
+    <category>souba</category>
+    <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
     <title>ワンピースカードのリーダーパラレル相場はいつ動くのか</title>
-    <link>https://tcquest4800-del.github.io/toreca-antenna/posts/souba-onepiece-leader-parallel-2026-08.html</link>
-    <guid isPermaLink="true">https://tcquest4800-del.github.io/toreca-antenna/posts/souba-onepiece-leader-parallel-2026-08.html</guid>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-onepiece-leader-parallel-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-onepiece-leader-parallel-2026-08.html</guid>
     <description>1デッキ1枚しか使わないのに需要が集中するリーダーパラレル。新弾・大会結果・ルール調整・再録という値動きが起きやすい4つの節目とその理由を解説します。</description>
     <category>souba</category>
     <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
   </item>
   <item>
+    <title>大会配布プロモの相場が特殊な理由｜配布枚数と入手経路</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-promo-haifu-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-promo-haifu-2026-08.html</guid>
+    <description>プロモは配布終了で供給が止まり、入手経路によって流通量が桁違いに変わります。参加賞・上位入賞者向け・応募系の違いと、価格情報の扱い方を整理しました。</description>
+    <category>souba</category>
+    <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
     <title>PSA10と未鑑定カードの価格差はなぜ生まれるのか</title>
-    <link>https://tcquest4800-del.github.io/toreca-antenna/posts/souba-psa10-kakaku-sa-2026-08.html</link>
-    <guid isPermaLink="true">https://tcquest4800-del.github.io/toreca-antenna/posts/souba-psa10-kakaku-sa-2026-08.html</guid>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-psa10-kakaku-sa-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-psa10-kakaku-sa-2026-08.html</guid>
     <description>鑑定済みと未鑑定で価格が変わる理由を、状態保証・最高評価の母数の小ささ・保護という3点に分解。鑑定に出す価値があるカードの条件もまとめました。</description>
     <category>souba</category>
     <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
   </item>
   <item>
     <title>ポケカSARが高値になりやすい3つの条件｜相場の見方入門</title>
-    <link>https://tcquest4800-del.github.io/toreca-antenna/posts/souba-sar-takane-joken-2026-08.html</link>
-    <guid isPermaLink="true">https://tcquest4800-del.github.io/toreca-antenna/posts/souba-sar-takane-joken-2026-08.html</guid>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-sar-takane-joken-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-sar-takane-joken-2026-08.html</guid>
     <description>同じ弾のSARでも価格が10倍以上開くのはなぜか。キャラ人気・封入率と開封量・再録という3つの要因に分解し、リザードンexやナンジャモを例に相場の読み方を整理します。</description>
     <category>souba</category>
     <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
   </item>
   <item>
+    <title>遊戯王クォーターセンチュリーシークレットの価格差はどこで決まるか</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-yugioh-quarter-century-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-yugioh-quarter-century-2026-08.html</guid>
+    <description>同じ最上位レアリティでも価格が大きく開くのはなぜか。需要の裾野・市場に出た枚数・状態という3つの軸に分けて、汎用カードとテーマ専用カードの違いから解説します。</description>
+    <category>souba</category>
+    <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
     <title>遊戯王の初期カード相場はなぜ特殊なのか｜青眼の白龍を例に</title>
-    <link>https://tcquest4800-del.github.io/toreca-antenna/posts/souba-yugioh-shoki-card-2026-08.html</link>
-    <guid isPermaLink="true">https://tcquest4800-del.github.io/toreca-antenna/posts/souba-yugioh-shoki-card-2026-08.html</guid>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-yugioh-shoki-card-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-yugioh-shoki-card-2026-08.html</guid>
     <description>初期の遊戯王カードは対戦での強さと価格がほぼ無関係です。版・状態・鑑定という3つの軸で値付けされる、古いコレクション市場に近い構造を解説します。</description>
     <category>souba</category>
     <pubDate>Sun, 16 Aug 2026 09:00:00 +0900</pubDate>
