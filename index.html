@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>トレカアンテナ | トレーディングカードの相場・新弾・買取・攻略情報</title>
+<meta name="description" content="トレーディングカードの相場動向、新弾情報、買取の考え方、初心者向けガイドなどをまとめる情報ブログ「トレカアンテナ」。">
+<link rel="stylesheet" href="./assets/style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="inner">
+    <div>
+      <div class="brand">トレカ<span>アンテナ</span></div>
+      <div class="tagline">相場・新弾・買取・攻略 ― トレカ情報のアンテナを張る</div>
+    </div>
+  </div>
+</header>
+
+<main>
+  <div class="hero">
+    <h1>最新の記事</h1>
+    <p>トレーディングカードにまつわる相場・新弾・買取・保管・初心者ガイドなどを毎日更新しています。</p>
+  </div>
+
+  <div class="filters" id="filters"></div>
+  <div class="post-list" id="post-list">
+    <p style="color:var(--text-muted)">記事を読み込み中です…</p>
+  </div>
+</main>
+
+<footer class="site-footer">
+  トレカアンテナ ― トレーディングカード情報ブログ
+</footer>
+
+<script>
+const THEME_LABELS = {
+  souba: "相場・高騰",
+  shinpan: "新弾・収録カード",
+  kaitori: "買取・売却の考え方",
+  guide: "初心者ガイド・デッキ",
+  kanbetsu: "真贋・保管",
+  column: "コラム・イベント"
+};
+
+async function main(){
+  const listEl = document.getElementById('post-list');
+  const filtersEl = document.getElementById('filters');
+  let posts = [];
+  try{
+    const res = await fetch('./data/posts.json', {cache:'no-store'});
+    posts = await res.json();
+  }catch(e){
+    listEl.innerHTML = '<p>記事データの読み込みに失敗しました。</p>';
+    return;
+  }
+
+  posts.sort((a,b)=> (b.date||'').localeCompare(a.date||''));
+
+  if(posts.length === 0){
+    listEl.innerHTML = '<p style="color:var(--text-muted)">まだ記事がありません。まもなく最初の記事が公開されます。</p>';
+    return;
+  }
+
+  const themesPresent = [...new Set(posts.map(p=>p.theme))];
+  filtersEl.innerHTML = ['all', ...themesPresent].map(t =>
+    `<button class="filter-chip${t==='all' ? ' active' : ''}" data-theme="${t}">${t==='all' ? 'すべて' : (THEME_LABELS[t]||t)}</button>`
+  ).join('');
+
+  function render(theme){
+    const filtered = theme === 'all' ? posts : posts.filter(p=>p.theme===theme);
+    listEl.innerHTML = filtered.map(p => `
+      <article class="post-card">
+        <div class="post-meta">
+          <span class="tag">${THEME_LABELS[p.theme] || p.theme}</span>
+          <span>${p.date || ''}</span>
+          ${typeof p.qualityScore === 'number' ? `<span class="score">品質スコア ${p.qualityScore}/100</span>` : ''}
+        </div>
+        <h2><a href="./posts/${p.slug}.html">${p.title}</a></h2>
+        <p class="excerpt">${p.excerpt || ''}</p>
+      </article>
+    `).join('');
+  }
+
+  render('all');
+
+  filtersEl.addEventListener('click', (e)=>{
+    const btn = e.target.closest('.filter-chip');
+    if(!btn) return;
+    filtersEl.querySelectorAll('.filter-chip').forEach(b=>b.classList.remove('active'));
+    btn.classList.add('active');
+    render(btn.dataset.theme);
+  });
+}
+main();
+</script>
+</body>
+</html>
