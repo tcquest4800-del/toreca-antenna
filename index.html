@@ -32,6 +32,11 @@
     <p>トレーディングカードにまつわる相場・新弾・買取・保管・初心者ガイドなどを毎日更新しています。</p>
   </div>
 
+  <div class="sort-bar" id="sort-bar" role="group" aria-label="並び替え">
+    <span class="sort-label">並び替え</span>
+    <button type="button" class="sort-chip active" data-sort="new" aria-pressed="true">新着</button>
+    <button type="button" class="sort-chip" data-sort="popular" aria-pressed="false">人気</button>
+  </div>
   <div class="filters" id="filters"></div>
   <div class="post-list" id="post-list">
     <p style="color:var(--text-muted)">記事を読み込み中です…</p>
@@ -64,7 +69,17 @@ async function main(){
     return;
   }
 
-  posts.sort((a,b)=> (b.date||'').localeCompare(a.date||''));
+  // posts.json の並び(=追加された順)を保持しておく。同じ日付の記事はこれで新旧を判定する。
+  posts.forEach((p,i)=>{ p._seq = i; });
+
+  const SORTS = {
+    // 新着: 日付の新しい順。同日なら後から追加されたものが上。
+    new: (a,b)=> (b.date||'').localeCompare(a.date||'') || b._seq - a._seq,
+    // 人気: 品質スコアの高い順。同点なら新着順にフォールバックする。
+    popular: (a,b)=> (b.qualityScore ?? -1) - (a.qualityScore ?? -1)
+                     || (b.date||'').localeCompare(a.date||'')
+                     || b._seq - a._seq
+  };
 
   if(posts.length === 0){
     listEl.innerHTML = '<p style="color:var(--text-muted)">まだ記事がありません。まもなく最初の記事が公開されます。</p>';
@@ -76,8 +91,13 @@ async function main(){
     `<button class="filter-chip${t==='all' ? ' active' : ''}" data-theme="${t}">${t==='all' ? 'すべて' : (THEME_LABELS[t]||t)}</button>`
   ).join('');
 
-  function render(theme){
-    const filtered = theme === 'all' ? posts : posts.filter(p=>p.theme===theme);
+  let currentTheme = 'all';
+  let currentSort = 'new';
+
+  function render(){
+    const filtered = (currentTheme === 'all' ? posts : posts.filter(p=>p.theme===currentTheme))
+      .slice()
+      .sort(SORTS[currentSort]);
     listEl.innerHTML = filtered.map(p => `
       <article class="post-card">
         <div class="post-meta">
@@ -91,14 +111,29 @@ async function main(){
     `).join('');
   }
 
-  render('all');
+  render();
 
   filtersEl.addEventListener('click', (e)=>{
     const btn = e.target.closest('.filter-chip');
     if(!btn) return;
     filtersEl.querySelectorAll('.filter-chip').forEach(b=>b.classList.remove('active'));
     btn.classList.add('active');
-    render(btn.dataset.theme);
+    currentTheme = btn.dataset.theme;
+    render();
+  });
+
+  const sortEl = document.getElementById('sort-bar');
+  sortEl.addEventListener('click', (e)=>{
+    const btn = e.target.closest('.sort-chip');
+    if(!btn || !SORTS[btn.dataset.sort]) return;
+    sortEl.querySelectorAll('.sort-chip').forEach(b=>{
+      b.classList.remove('active');
+      b.setAttribute('aria-pressed','false');
+    });
+    btn.classList.add('active');
+    btn.setAttribute('aria-pressed','true');
+    currentSort = btn.dataset.sort;
+    render();
   });
 }
 main();

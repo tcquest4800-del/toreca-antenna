@@ -54,6 +54,30 @@ main{max-width:var(--maxw);margin:0 auto;padding:24px 16px 80px;}
 .hero h1{font-size:1.6rem;margin:0 0 6px;}
 .hero p{color:var(--text-muted);margin:0;}
 
+.sort-bar{
+  display:flex;align-items:center;flex-wrap:wrap;gap:8px;margin:0 0 14px;
+}
+.sort-label{
+  color:var(--text-muted);
+  font-size:.8rem;
+  margin-right:2px;
+}
+.sort-chip{
+  border:1px solid var(--line);
+  background:var(--bg-card);
+  color:var(--text-muted);
+  padding:6px 16px;
+  border-radius:999px;
+  font-size:.82rem;
+  font-weight:600;
+  cursor:pointer;
+}
+.sort-chip.active{
+  background:var(--tag-bg);
+  border-color:var(--tag-text);
+  color:var(--tag-text);
+}
+
 .filters{
   display:flex;flex-wrap:wrap;gap:8px;margin:0 0 28px;
 }
