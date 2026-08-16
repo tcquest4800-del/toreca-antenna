@@ -17,6 +17,18 @@
 - 記事ファイル: `posts/<slug>.html`
 - 記事一覧データ: `data/posts.json`(トップページがここを fetch して一覧表示する)
 - スタイル: `assets/style.css` を common で読み込む。新しいCSSクラスを増やす場合はこのファイルに追記する
+- アクセス解析: 全ページの `</head>` 直前に以下のGoogleアナリティクス(GA4)タグを必ず入れる(`posts/_template.html` にも入っている。既にタグがあれば重複させない)。
+
+```html
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PGBR3HY40L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-PGBR3HY40L');
+</script>
+```
 
 ## テーマ(6分類・満遍なく触れる)
 
@@ -78,7 +90,7 @@ metaタグに `description` を必ず設定する(120字前後、検索結果に
 1. リポジトリを最新化する
 2. `data/posts.json` を読み、直近の投稿テーマ内訳と既存タイトルを確認する(重複回避・テーマ配分のため)
 3. 6テーマに配分しながら記事を生成する(1回の実行での本数は指示に従う)
-4. 各記事について `posts/<slug>.html` を作成し、`assets/style.css` を読み込む
+4. 各記事について `posts/<slug>.html` を作成し、`assets/style.css` を読み込む(`posts/_template.html` をコピーして使えばGA4タグも含めて自動的に揃う)
 5. `data/posts.json` に新規エントリを追記する(品質スコア込み)
 6. コミットしてpushする(コミットメッセージ例: `daily: add N posts (YYYY-MM-DD)`)
 
