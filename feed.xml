@@ -6,7 +6,167 @@
   <atom:link href="https://toreca-ai.github.io/toreca-antenna/feed.xml" rel="self" type="application/rss+xml" />
   <description>トレーディングカードの相場動向、新弾情報、買取の考え方、初心者向けガイドなどをまとめる情報ブログ。</description>
   <language>ja</language>
-  <lastBuildDate>Mon, 17 Aug 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Tue, 18 Aug 2026 09:00:00 +0900</lastBuildDate>
+  <item>
+    <title>240円時代のBOX｜ワンピース・デジモン・DBFが同じ価格に並んだ2026年秋</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-240en-jidai-bandai-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-240en-jidai-bandai-2026-08.html</guid>
+    <description>2026年秋、OP-17・BT-26・FB11がいずれも240円6枚入りで並びました。220円から240円への切り替えが揃ったことが、開封の判断に何をもたらすかを考えます。</description>
+    <category>column</category>
+    <pubDate>Tue, 18 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ポケカから来た人がヴァイスで戸惑うこと｜サイドとクロックは別の時間軸</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-pokeca-kara-ws-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-pokeca-kara-ws-2026-08.html</guid>
+    <description>ポケカのサイドとヴァイスのクロックは、どちらも勝敗に関わる数字ですが動き方が逆です。ポケカ経験者がヴァイス系に触れるときの読み替えを整理します。</description>
+    <category>column</category>
+    <pubDate>Tue, 18 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>続編弾は既存デッキに何をもたらすか｜ヴァイス「葬送のフリーレン Vol.2」から考える</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-ws-zokuhen-dan-frieren-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-ws-zokuhen-dan-frieren-2026-08.html</guid>
+    <description>ヴァイス「葬送のフリーレン Vol.2」は2026年8月28日発売。既にそのタイトルを組んでいる人にとって、続編弾は新規参入とは違う意味を持ちます。</description>
+    <category>column</category>
+    <pubDate>Tue, 18 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>遊戯王の展開ルートに慣れた人がデジモンで戸惑うこと｜動くほど相手に渡す構造</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-yugioh-kara-digimon-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-yugioh-kara-digimon-2026-08.html</guid>
+    <description>遊戯王では1ターンに長い展開ルートを通しますが、デジモンでは動くほどメモリーが相手に渡ります。展開の発想が通用しない理由と読み替えを整理します。</description>
+    <category>column</category>
+    <pubDate>Tue, 18 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>DBFで最初のリーダーをどう選ぶか｜ST01の新規3種から考える1デッキ目</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-dbf-leader-erabikata-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-dbf-leader-erabikata-2026-08.html</guid>
+    <description>DBFはリーダー1枚でデッキの骨格が決まります。ST01に収録された悟天・魔人ブウ・ベジータの新規リーダーを例に、最初の1デッキの選び方を整理します。</description>
+    <category>guide</category>
+    <pubDate>Tue, 18 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>デジモンの育成エリアは何のためにあるのか｜初心者が最初に覚える安全地帯</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-digimon-ikusei-area-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-digimon-ikusei-area-2026-08.html</guid>
+    <description>デジモンの育成エリアは相手に除去されない場所でデジモンを育てる仕組み。ここを使えるかで初動の安定が変わります。メモリーとの関係も含めて整理します。</description>
+    <category>guide</category>
+    <pubDate>Tue, 18 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ヴァイスシュヴァルツロゼで最初のタイトルをどう選ぶか｜入賞レシピの散り方から考える</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-wsr-saisho-no-title-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-wsr-saisho-no-title-2026-08.html</guid>
+    <description>ロゼはタイトルを1つ選んで組むゲーム。最初のタイトル選びで見るべき3点と、入賞デッキが特定タイトルに集中していないという傾向の読み方を整理します。</description>
+    <category>guide</category>
+    <pubDate>Tue, 18 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>10月に新弾が3本重なる｜手放す順番を発売日から逆算する</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-10gatsu-shinpan-gyakusan-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-10gatsu-shinpan-gyakusan-2026-08.html</guid>
+    <description>2026年10月はデジモンEX-13、ロゼ オーガスト、ワンピースEB-05が重なります。並行している人が整理の順番を発売日から逆算する考え方を整理します。</description>
+    <category>kaitori</category>
+    <pubDate>Tue, 18 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>デジモンは低レアリティを手放すと後で困る｜進化ラインと整理の順番</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-digimon-teirea-hitsuyou-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-digimon-teirea-hitsuyou-2026-08.html</guid>
+    <description>デジモンは進化を軸に組むため、進化ラインを支えるコモン・アンコモンが実戦で必須になります。レアリティ順に整理すると失敗する理由を整理します。</description>
+    <category>kaitori</category>
+    <pubDate>Tue, 18 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>3タイトル混成のパックを手放すとき｜ロゼ「オーガスト」型の構成で起きること</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-wsr-3title-kongo-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-wsr-3title-kongo-2026-08.html</guid>
+    <description>ロゼの「オーガスト」は3作品が1弾に同居する構成。ネオスタンダード構築のタイトルでは、混成弾の余りをどう扱うかが整理の分かれ目になります。</description>
+    <category>kaitori</category>
+    <pubDate>Tue, 18 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ヴァイス・ロゼのAGR(直筆サイン)をどう扱うか｜インクは印刷ではないという前提</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-agr-chokuhitsu-sign-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-agr-chokuhitsu-sign-2026-08.html</guid>
+    <description>AGR(オートグラフレア)は直筆サインが入るカード。印刷ではないインクを持つカードの保管と、初版限定という条件の意味を整理します。</description>
+    <category>kanbetsu</category>
+    <pubDate>Tue, 18 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>DBFはエナジーを裏向きで置く｜裏面の傷がゲームに直結する数少ないタイトル</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-dbf-energy-uramen-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-dbf-energy-uramen-2026-08.html</guid>
+    <description>DBFはカードを裏向きでエナジーエリアに置きます。裏面の状態が対戦中に見えてしまう構造と、スリーブ選び・保管で気をつける点を整理します。</description>
+    <category>kanbetsu</category>
+    <pubDate>Tue, 18 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>開封直後の10分でカードを傷めない手順｜初期傷と自分でつけた傷を分ける</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-kaifu-chokugo-tejun-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-kaifu-chokugo-tejun-2026-08.html</guid>
+    <description>カードの傷の多くは開封直後の扱いでつきます。開けてからスリーブに入れるまでの手順を分解し、初期傷と自分でつけた傷を区別する方法を整理します。</description>
+    <category>kanbetsu</category>
+    <pubDate>Tue, 18 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>DBF「BRIGHTNESS OF HOPE【FB11】」は9月12日発売｜全123種の通常弾に戻る意味</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-dbf-fb11-brightness-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-dbf-fb11-brightness-2026-08.html</guid>
+    <description>ドラゴンボール フュージョンワールドのFB11は2026年9月12日発売、240円6枚入り、全123種。特別弾ST01の直後に来る通常弾として何を見るかを整理します。</description>
+    <category>shinpan</category>
+    <pubDate>Tue, 18 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>デジモンEX-13「CHIVALROUS XIII」は10月3日発売｜エクストラブースターの読み方</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-digimon-ex13-chivalrous-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-digimon-ex13-chivalrous-2026-08.html</guid>
+    <description>デジモンのエクストラブースター「CHIVALROUS XIII」は2026年10月3日発売、240円。ロイヤルナイツを軸にしたテーマ弾を通常弾との違いから整理します。</description>
+    <category>shinpan</category>
+    <pubDate>Tue, 18 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ワンピースカードEB-05「Heroines Edition vol.2」は2026年10月発売｜エクストラブースターに何を期待するか</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-op-eb05-heroines-vol2-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-op-eb05-heroines-vol2-2026-08.html</guid>
+    <description>ワンピースカードのEB-05は2026年10月発売予定、240円。収録内容の大半が未公開という前提で、テーマ限定の弾をどう見るかを整理します。</description>
+    <category>shinpan</category>
+    <pubDate>Tue, 18 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>デジモンBT-26の当たり枠は全108種中いくつか｜発売直後の相場を数字から見る</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-digimon-bt26-hatsubaigo-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-digimon-bt26-hatsubaigo-2026-08.html</guid>
+    <description>2026年8月29日発売のBT-26「TIMELESS BONDS」は全108種。SR12・UR3・SEC2・SP4という内訳から、発売直後の相場がどこで割れるのかを数えて整理します。</description>
+    <category>souba</category>
+    <pubDate>Tue, 18 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ワンピースカードST-31〜ST-36の相場はOP-17の後にどう見られるか｜スタートデッキ側が動く理由</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-op-startdeck-op17-go-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-op-startdeck-op17-go-2026-08.html</guid>
+    <description>OP-17「世界最強の戦士」で新しいリーダーが増えると、色ごとに分かれたスタートデッキの見られ方も動きます。その仕組みと買うかどうかの判断軸を整理します。</description>
+    <category>souba</category>
+    <pubDate>Tue, 18 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>パラレル比率でパックを比べる｜ノーマル100種に対してパラレルが何種あるか</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-parallel-hiritsu-hikaku-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-parallel-hiritsu-hikaku-2026-08.html</guid>
+    <description>ヴァイスとロゼはどの弾もノーマル100種で揃っています。パラレルの種類数だけが違うため、比率で並べると各弾の性格が見えてきます。</description>
+    <category>souba</category>
+    <pubDate>Tue, 18 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ヴァイスシュヴァルツロゼ「オーガスト」はOFRが18種｜封入構成の変化が相場の前提を動かす</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-wsr-august-ofr-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-wsr-august-ofr-2026-08.html</guid>
+    <description>2026年10月23日発売のロゼ「オーガスト」はパラレル118種・OFR18種。8月のぬきたし(OS12)と並べて、封入構成の変化が相場の前提に何をもたらすかを整理します。</description>
+    <category>souba</category>
+    <pubDate>Tue, 18 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>2026年秋の新弾カレンダー｜主力タイトルの発売日が重なる時期をどう回すか</title>
     <link>https://toreca-ai.github.io/toreca-antenna/posts/column-2026-aki-shinpan-calendar-2026-08.html</link>
