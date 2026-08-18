@@ -6,7 +6,167 @@
   <atom:link href="https://toreca-ai.github.io/toreca-antenna/feed.xml" rel="self" type="application/rss+xml" />
   <description>トレーディングカードの相場動向、新弾情報、買取の考え方、初心者向けガイドなどをまとめる情報ブログ。</description>
   <language>ja</language>
-  <lastBuildDate>Tue, 18 Aug 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Wed, 19 Aug 2026 09:00:00 +0900</lastBuildDate>
+  <item>
+    <title>ST01の後、FB11の前｜新弾のはざまの1か月にDBFのデッキをどう触るか</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-dbf-shinpan-hazama-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-dbf-shinpan-hazama-2026-08.html</guid>
+    <description>ST01が8月8日、FB11が9月12日。あいだの約1か月をどう使うか、決めておくと後が楽なことを4つ挙げます。</description>
+    <category>column</category>
+    <pubDate>Wed, 19 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ヴァイスは秋に新商品が月2〜3本出る｜発売本数が多いタイトルとの付き合い方</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-ws-shinpan-honsuu-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-ws-shinpan-honsuu-2026-08.html</guid>
+    <description>2026年9〜11月のヴァイスの発売予定を並べ、本数の多さがタイトル数の多さから来ることと、そこで消耗しない構え方を整理します。</description>
+    <category>column</category>
+    <pubDate>Wed, 19 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ロゼの「山が掘れる／掘れない」はなぜ意見が割れるのか｜同じゲームが別々に語られる理由</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-wsr-yamahori-hyoka-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-wsr-yamahori-hyoka-2026-08.html</guid>
+    <description>ロゼの遊び心地に正反対の評価が並ぶ理由を、比較の相手が違うという観点から整理します。山圧縮の目的の違いにも触れます。</description>
+    <category>column</category>
+    <pubDate>Wed, 19 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>DBFのコンボは手札を削る｜パワーを上げるたびに何を失っているのか</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-dbf-combo-tefuda-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-dbf-combo-tefuda-2026-08.html</guid>
+    <description>DBFの手札には場に出す・エナジーにする・コンボに使うという3つの行き先があります。切る判断の材料を初心者向けに整理します。</description>
+    <category>guide</category>
+    <pubDate>Wed, 19 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>デジモンの進化元効果は「進化した瞬間」に決まる｜後から拾えない効果を取りこぼさないために</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-digimon-shinkamoto-koka-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-digimon-shinkamoto-koka-2026-08.html</guid>
+    <description>進化元効果には進化時に誘発するものと継続するものがあります。順番を間違えると消える効果と、その確認手順を整理します。</description>
+    <category>guide</category>
+    <pubDate>Wed, 19 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ワンピースカードの「ドン効率」とは何か｜相手と同じパワーに並べる攻撃がもったいない理由</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-op-don-koritsu-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-op-don-koritsu-2026-08.html</guid>
+    <description>ドン!!の配り方で勝敗が変わります。相手に何枚カウンターを切らせたかで数える考え方を、具体的な場面で解説します。</description>
+    <category>guide</category>
+    <pubDate>Wed, 19 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>「4コン」という単位で考える｜ヴァイス・ロゼで1枚単位の売買が主流になりにくい理由</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-4con-tanni-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-4con-tanni-2026-08.html</guid>
+    <description>ヴァイス系で4枚コンプリートが単位になる構造と、手放すときに単位を揃えることの意味を整理します。</description>
+    <category>kaitori</category>
+    <pubDate>Wed, 19 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>台紙付きのカードセットをバラすかどうか｜開けた時点で戻せないものがある</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-daishi-set-barasu-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-daishi-set-barasu-2026-08.html</guid>
+    <description>中身が確定している台紙付きセットは、未開封であることの意味がパックとは違います。判断の材料と取り出し時の注意を整理します。</description>
+    <category>kaitori</category>
+    <pubDate>Wed, 19 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>DBFはリーダー単位で整理する｜色で縛られるタイトルの手放す順番</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-dbf-leader-tanni-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-dbf-leader-tanni-2026-08.html</guid>
+    <description>リーダーの色でカードプールが分断されるDBFでは、カード1枚ずつではなくリーダー単位で整理するほうが実態に合います。</description>
+    <category>kaitori</category>
+    <pubDate>Wed, 19 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>「使えなくなる」の形はタイトルごとに違う｜ポケカ・遊戯王と主力5タイトルを並べて考える</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-tsukaenakunaru-kata-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-tsukaenakunaru-kata-2026-08.html</guid>
+    <description>期限で区切られる型、個別に制限される型、構築の枠から外れる型。タイトルごとに判断の期限がどこにあるかを整理します。</description>
+    <category>kaitori</category>
+    <pubDate>Wed, 19 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>DBFのリーダーは替えのきかない1枚｜毎試合ずっと場に出るカードをどう守るか</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-dbf-leader-1mai-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-dbf-leader-1mai-2026-08.html</guid>
+    <description>使用頻度が最大なのに替えがきかないDBFのリーダー。覚醒で裏返す操作と、卓上に置きっぱなしになるリスクを整理します。</description>
+    <category>kanbetsu</category>
+    <pubDate>Wed, 19 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>箔押しサインと直筆サインは別物｜ヴァイス系のサインカードを取り違えないために</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-hakuoshi-sign-chigai-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-hakuoshi-sign-chigai-2026-08.html</guid>
+    <description>印刷された箔押しサインと手で書かれた直筆サインは弱点が違います。見分け方と、それぞれの保管の注意点を整理します。</description>
+    <category>kanbetsu</category>
+    <pubDate>Wed, 19 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>大会前にマークドカードを見つける手順｜デジモン・DBF・ポケカで確認する場所が違う</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-marked-card-taikai-check-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-marked-card-taikai-check-2026-08.html</guid>
+    <description>裏向きのカードが登場する場面はタイトルごとに違います。発生しやすい場所と、5分でできる確認手順を整理します。</description>
+    <category>kanbetsu</category>
+    <pubDate>Wed, 19 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ワンピースカードのドン!!は毎ターン10枚を触る｜いちばん消耗する10枚をどう扱うか</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-op-don-card-shomo-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-op-don-card-shomo-2026-08.html</guid>
+    <description>デッキの中でもっとも酷使されるドン!!カード。傷みの出方と、裏面の傷がマークドカードにつながる点を整理します。</description>
+    <category>kanbetsu</category>
+    <pubDate>Wed, 19 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ワンピースカードOP-17は全131種+4種｜レアリティ内訳と「スーパーリーダーパラレル」という新しい枠</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-op17-rarity-uchiwake-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-op17-rarity-uchiwake-2026-08.html</guid>
+    <description>8月22日発売のOP-17「世界最強の戦士」の収録種類数とレアリティ内訳を公式情報から整理し、新レアリティが何を意味するのかを読み解きます。</description>
+    <category>shinpan</category>
+    <pubDate>Wed, 19 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ヴァイス「葬送のフリーレン Vol.2」は8月28日発売｜BOX特典PR24種とカートン特典10種という設計</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-ws-frieren-vol2-pr-tokuten-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-ws-frieren-vol2-pr-tokuten-2026-08.html</guid>
+    <description>ノーマル100種+パラレル115種の内訳に加え、パックの外側に用意されたBOX特典PR全24種・カートン特典PR全10種の意味を整理します。</description>
+    <category>shinpan</category>
+    <pubDate>Wed, 19 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ヴァイスシュヴァルツロゼに「スペシャルカードセット」が2種｜10月30日発売、5枚組という商品形態</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-wsr-special-card-set-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-wsr-special-card-set-2026-08.html</guid>
+    <description>ゆずソフト(OS01)と蒼の彼方のフォーリズム(OS05)のスペシャルカードセットが10月30日発売。5枚5,500円という新しい商品形態を整理します。</description>
+    <category>shinpan</category>
+    <pubDate>Wed, 19 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>5枚で5,500円をどう見るか｜1枚あたりの単価が最初から決まっている商品の相場</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-kakutei-shohin-tanka-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-kakutei-shohin-tanka-2026-08.html</guid>
+    <description>中身が確定している商品の単価と、パック開封の平均単価は性質が違います。主力タイトルの単価と並べて相場の前提を整理します。</description>
+    <category>souba</category>
+    <pubDate>Wed, 19 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>レアリティが細かく分かれた弾の相場はどう割れるか｜ワンピースカードOP-17の構成から考える</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-op17-rarity-9dankai-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-op17-rarity-9dankai-2026-08.html</guid>
+    <description>上位のレアリティ枠が細分化された弾では価格分布が縦に伸びます。OP-17の構成を材料に、相場の付き方の構造を整理します。</description>
+    <category>souba</category>
+    <pubDate>Wed, 19 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>同じタイトルに複数の弾が並ぶとき｜ヴァイス「葬送のフリーレン」新装版とVol.2の関係を整理する</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-ws-frieren-shinsoban-vol2-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-ws-frieren-shinsoban-vol2-2026-08.html</guid>
+    <description>2026年3月の新装版と8月のVol.2。BOXのパック数も種類数も違う2商品を並べ、同一タイトルに商品が並ぶときの見方を整理します。</description>
+    <category>souba</category>
+    <pubDate>Wed, 19 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>240円時代のBOX｜ワンピース・デジモン・DBFが同じ価格に並んだ2026年秋</title>
     <link>https://toreca-ai.github.io/toreca-antenna/posts/column-240en-jidai-bandai-2026-08.html</link>

@@ -2,13 +2,113 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://toreca-ai.github.io/toreca-antenna/</loc>
-    <lastmod>2026-08-18</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://toreca-ai.github.io/toreca-antenna/about.html</loc>
-    <lastmod>2026-08-18</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/column-dbf-shinpan-hazama-2026-08.html</loc>
+    <lastmod>2026-08-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/column-ws-shinpan-honsuu-2026-08.html</loc>
+    <lastmod>2026-08-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/column-wsr-yamahori-hyoka-2026-08.html</loc>
+    <lastmod>2026-08-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/guide-dbf-combo-tefuda-2026-08.html</loc>
+    <lastmod>2026-08-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/guide-digimon-shinkamoto-koka-2026-08.html</loc>
+    <lastmod>2026-08-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/guide-op-don-koritsu-2026-08.html</loc>
+    <lastmod>2026-08-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-4con-tanni-2026-08.html</loc>
+    <lastmod>2026-08-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-daishi-set-barasu-2026-08.html</loc>
+    <lastmod>2026-08-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-dbf-leader-tanni-2026-08.html</loc>
+    <lastmod>2026-08-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-tsukaenakunaru-kata-2026-08.html</loc>
+    <lastmod>2026-08-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-dbf-leader-1mai-2026-08.html</loc>
+    <lastmod>2026-08-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-hakuoshi-sign-chigai-2026-08.html</loc>
+    <lastmod>2026-08-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-marked-card-taikai-check-2026-08.html</loc>
+    <lastmod>2026-08-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-op-don-card-shomo-2026-08.html</loc>
+    <lastmod>2026-08-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-op17-rarity-uchiwake-2026-08.html</loc>
+    <lastmod>2026-08-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-ws-frieren-vol2-pr-tokuten-2026-08.html</loc>
+    <lastmod>2026-08-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-wsr-special-card-set-2026-08.html</loc>
+    <lastmod>2026-08-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/souba-kakutei-shohin-tanka-2026-08.html</loc>
+    <lastmod>2026-08-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/souba-op17-rarity-9dankai-2026-08.html</loc>
+    <lastmod>2026-08-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://toreca-ai.github.io/toreca-antenna/posts/souba-ws-frieren-shinsoban-vol2-2026-08.html</loc>
+    <lastmod>2026-08-19</lastmod>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://toreca-ai.github.io/toreca-antenna/posts/column-240en-jidai-bandai-2026-08.html</loc>
