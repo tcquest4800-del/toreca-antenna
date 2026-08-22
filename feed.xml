@@ -6,7 +6,167 @@
   <atom:link href="https://toreca-ai.github.io/toreca-antenna/feed.xml" rel="self" type="application/rss+xml" />
   <description>トレーディングカードの相場動向、新弾情報、買取の考え方、初心者向けガイドなどをまとめる情報ブログ。</description>
   <language>ja</language>
-  <lastBuildDate>Sat, 22 Aug 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 09:00:00 +0900</lastBuildDate>
+  <item>
+    <title>新弾の評価が固まるまでに何が起きるか｜ワンピースカードOP-17発売翌日に言えること・言えないこと</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-op17-hatsubai-yokujitsu-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-op17-hatsubai-yokujitsu-2026-08.html</guid>
+    <description>発売翌日に確かなのは公式の数字だけ。評価が3段階でずれていく仕組みと、四皇リーダー限定イベント中という事情を整理します。</description>
+    <category>column</category>
+    <pubDate>Sun, 23 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>9月に出る2つの「記念弾」｜ポケカ30th CELEBRATIONと遊戯王 ORIGINAL ARTWORK COLLECTIONは作り方が違う</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-pokeca-yugioh-9gatsu-kinen-dan-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-pokeca-yugioh-9gatsu-kinen-dan-2026-08.html</guid>
+    <description>確定枠で下限を上げるポケカ30thと、仕様を重ねて上限を伸ばす遊戯王。同じ記念弾でも方向が逆な2つを並べて読みます。</description>
+    <category>column</category>
+    <pubDate>Sun, 23 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>同じ看板で3つのブランドが並んだ4年間｜ヴァイスシュヴァルツブラウの商品展開終了から考える</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/column-ws-blau-4nen-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/column-ws-blau-4nen-2026-08.html</guid>
+    <description>ヴァイスシュヴァルツには本家・ロゼ・ブラウの3ブランドがありました。ブランドを分けるという設計が何を狙っていたのかを公表事実から読みます。</description>
+    <category>column</category>
+    <pubDate>Sun, 23 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>DBFでエナジーに何を送るか｜手札の1枚を裏向きにするという選択</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-dbf-energy-nani-okuru-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-dbf-energy-nani-okuru-2026-08.html</guid>
+    <description>DBFでは毎ターン手札からエナジーエリアにカードを置きます。何を送るかの判断の軸と、裏向きに並ぶことによる状態の注意点を整理します。</description>
+    <category>guide</category>
+    <pubDate>Sun, 23 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>デジモンのデッキタイプを整理する｜速攻・コントロールと「順当進化」のレベル配分</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-digimon-deck-type-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-digimon-deck-type-2026-08.html</guid>
+    <description>デジモンのメインデッキは50枚ちょうど。速攻型とコントロール型でメモリーの使い方と配分がどう変わるかを、使用者が挙げる目安とともに整理します。</description>
+    <category>guide</category>
+    <pubDate>Sun, 23 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ヴァイスシュヴァルツのレベル0で何をするか｜舞台の取り合いと、無理に3面殴らない理由</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/guide-ws-level0-nani-suru-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/guide-ws-level0-nani-suru-2026-08.html</guid>
+    <description>ヴァイスのレベル0は準備と観察の時間です。舞台を取る・山を掘る・手札を整えるの3つと、3面アタックが裏目に出る理由を整理します。</description>
+    <category>guide</category>
+    <pubDate>Sun, 23 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>DBFのエナジーマーカー12種は整理の対象になるか｜デッキに入らないカードの扱い</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-dbf-energy-marker-12shu-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-dbf-energy-marker-12shu-2026-08.html</guid>
+    <description>DBFのエナジーマーカーはデッキ50〜60枚に含まれず1枚あれば足ります。ST01で12種収録されたこの枠の整理の考え方を整理します。</description>
+    <category>kaitori</category>
+    <pubDate>Sun, 23 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>商品展開の終了が告知されたブランドの手持ちをどう考えるか｜期限が3つに分かれるということ</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-ws-blau-tebanasu-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-ws-blau-tebanasu-2026-08.html</guid>
+    <description>ヴァイスシュヴァルツブラウの終了告知を材料に、商品展開・公認大会・公式イベントで期限が違うことを踏まえた整理の考え方をまとめます。</description>
+    <category>kaitori</category>
+    <pubDate>Sun, 23 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>続編弾が出た後、前の弾のカードをどうするか｜ヴァイス「葬送のフリーレン」で手放す順番</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kaitori-ws-frieren-vol1-vol2-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kaitori-ws-frieren-vol1-vol2-2026-08.html</guid>
+    <description>同じタイトルに複数の商品が並ぶとき、前の弾のカードをいつ手放すか。クライマックス8枚を決め直してから、という順序の理由を整理します。</description>
+    <category>kaitori</category>
+    <pubDate>Sun, 23 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>デジモンBT-26を開ける前に用意するもの｜24パック＋特別パックの流れを先に決める</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-digimon-bt26-kaifuu-junbi-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-digimon-bt26-kaifuu-junbi-2026-08.html</guid>
+    <description>1BOX24パックで通常パートだけで144枚。全108種のうち低レアが66種を占めるBT-26を、傷をつけずに開けて仕分ける準備を整理します。</description>
+    <category>kanbetsu</category>
+    <pubDate>Sun, 23 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>OP-17の上位パラレルは加工面が広い｜4周年弾を開けた後にやる擦れ対策</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-op17-kakou-men-hiroi-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-op17-kakou-men-hiroi-2026-08.html</guid>
+    <description>8月22日発売のOP-17は上位パラレル枠が細かく分かれています。加工が全面に載るカードで傷が出やすい理由と開封後の扱いを整理します。</description>
+    <category>kanbetsu</category>
+    <pubDate>Sun, 23 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>1パック4枚・6枚・8枚｜パックの中で何枚重なっているかで、こすれ方が変わる</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-pack-maisuu-kasanari-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-pack-maisuu-kasanari-2026-08.html</guid>
+    <description>遊戯王は4枚、ワンピース・デジモン・DBFは6枚、ヴァイスは8枚。封入枚数と加工面の数から、開け方を変える理由を整理します。</description>
+    <category>kanbetsu</category>
+    <pubDate>Sun, 23 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ロゼを複数タイトル持っている人の仕分け｜同名カードがOS番号違いで混ざる</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-wsr-fukusuu-os-shiwake-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/kanbetsu-wsr-fukusuu-os-shiwake-2026-08.html</guid>
+    <description>ロゼは同名でもOS番号が違えば別のカード。仕分けの段階で混ざると構築違反に直結します。混ざりを防ぐ具体的な手順を整理します。</description>
+    <category>kanbetsu</category>
+    <pubDate>Sun, 23 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>デジモンBT-26のBOX特典は「特別パック」｜6種からランダム1枚という枠の数え方</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-digimon-bt26-tokubetsu-pack-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-digimon-bt26-tokubetsu-pack-2026-08.html</guid>
+    <description>8月29日発売のデジモンBT-26のBOX特典は6種からランダム1枚の特別パック。1BOXで開ける枚数と、他タイトルの特典との数え方の違いを整理します。</description>
+    <category>shinpan</category>
+    <pubDate>Sun, 23 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ヴァイスシュヴァルツ「anemoi」は10月2日発売｜声優10種・原画家5種の箔押しサインと初版限定AGR</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-ws-anemoi-10gatsu2ka-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-ws-anemoi-10gatsu2ka-2026-08.html</guid>
+    <description>10月2日発売のanemoiはノーマル100種＋パラレル100種以上。直筆AGR・声優箔押し・原画家箔押しという3層のサイン枠を整理します。</description>
+    <category>shinpan</category>
+    <pubDate>Sun, 23 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ヴァイスシュヴァルツブラウの商品展開が終了へ｜最後のブースターは10月16日発売</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-ws-blau-saishudan-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-ws-blau-saishudan-2026-08.html</guid>
+    <description>ヴァイスシュヴァルツブラウの商品展開終了が公式から告知されました。最終商品は10月16日、公認大会は12月まで、公式イベントは2027年5月までです。</description>
+    <category>shinpan</category>
+    <pubDate>Sun, 23 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ヴァイスシュヴァルツ 葬送のフリーレン Vol.2 のサイン枠｜ダブル箔押し6種と単独箔押し10キャスト分</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/shinpan-ws-frieren-vol2-sign-kousei-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/shinpan-ws-frieren-vol2-sign-kousei-2026-08.html</guid>
+    <description>8月28日発売のフリーレンVol.2には、ダブル箔押しサイン6種と単独箔押し10キャスト分という2つのサイン枠があります。公表数字だけで構成を整理します。</description>
+    <category>shinpan</category>
+    <pubDate>Sun, 23 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>8月28日と29日に新弾が続く週末｜ヴァイスとデジモンが並んだときの相場の見方</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-8gatsu-matsu-2renzoku-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-8gatsu-matsu-2renzoku-2026-08.html</guid>
+    <description>8月28日にヴァイス「葬送のフリーレンVol.2」、29日にデジモンBT-26。2日続けて新弾が出る週に相場を見る順番を整理します。</description>
+    <category>souba</category>
+    <pubDate>Sun, 23 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>サインカードは「種類数」で狙い撃ちの効きが変わる｜ヴァイスシュヴァルツ2026年秋の3弾を並べて</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-ws-sign-shuruisuu-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-ws-sign-shuruisuu-2026-08.html</guid>
+    <description>フリーレンVol.2・NIKKE Vol.2・anemoiのサイン枠を並べ、種類数から何が言えて何が言えないのかを整理します。封入率は公表されていません。</description>
+    <category>souba</category>
+    <pubDate>Sun, 23 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>ロゼは同名カードでもOS番号が違えば別扱い｜需要がOS単位で閉じるという構造</title>
+    <link>https://toreca-ai.github.io/toreca-antenna/posts/souba-wsr-os-bangou-kachi-2026-08.html</link>
+    <guid isPermaLink="true">https://toreca-ai.github.io/toreca-antenna/posts/souba-wsr-os-bangou-kachi-2026-08.html</guid>
+    <description>ヴァイスシュヴァルツロゼの構築ルールでは同名でもOS番号が違えば別扱い。この一文が需要と相場をOS単位で分けている仕組みを整理します。</description>
+    <category>souba</category>
+    <pubDate>Sun, 23 Aug 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>デジモンBT-26に3作品が同居する｜「作品を知っていればカードが分かる」が崩れつつある</title>
     <link>https://toreca-ai.github.io/toreca-antenna/posts/column-digimon-bt26-3sakuhin-2026-08.html</link>
